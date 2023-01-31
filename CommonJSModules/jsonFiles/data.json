@@ -1,0 +1,10 @@
+{
+  "name": "Albert",
+  "age": 30,
+  "address": {
+    "town": "wadakkanchery",
+    "district": "Thrissur",
+    "state": "Kerala",
+    "country": "India"
+  }
+}
