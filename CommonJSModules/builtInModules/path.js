@@ -1,4 +1,4 @@
-const path = require("node:path");
+// const path = require("node:path");
 const path = require("path"); // works the same as above
 
 console.log(path.basename(__filename));
