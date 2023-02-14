@@ -1,0 +1,18 @@
+{
+  "name": "package-to-test-greet-package",
+  "version": "1.0.0",
+  "description": "for testing the greet-package-albert",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index"
+  },
+  "keywords": [
+    "testing",
+    "package"
+  ],
+  "author": "Albert",
+  "license": "MIT",
+  "dependencies": {
+    "greet-package-albert": "^1.0.1"
+  }
+}
