@@ -1,0 +1,19 @@
+{
+  "name": "custom_cli_albert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "custom_cli_albert": "index.js"
+  },
+  "keywords": [],
+  "author": "Albert",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "yargs": "^17.6.2"
+  }
+}
