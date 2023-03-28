@@ -4,7 +4,7 @@ const os = require("os");
 
 if (cluster.isMaster) {
   console.log(`Master process ${process.pid} is running`);
-  console.log(os.cpus().length);
+  console.log(os.cpus().length); // 4
   cluster.fork();
   cluster.fork();
 } else {

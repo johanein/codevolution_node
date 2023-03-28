@@ -13,6 +13,7 @@
   "author": "Albert",
   "license": "MIT",
   "dependencies": {
-    "greet-package-albert": "^1.0.1"
+    "greet-package-albert": "^1.0.1",
+    "mergesorting_binarysearch_albert": "^1.0.0"
   }
 }
